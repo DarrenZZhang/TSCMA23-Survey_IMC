@@ -18,6 +18,10 @@ For kenerl learning based IMC, the source code can be downloaded from: https://g
 
 For incomplete multi-view data construction, you can use code 'splitDigitData.m' to generate the index of missing views.
 
+#### Datasets: 
+You may download the datasets from [baiduyun](https://pan.baidu.com/s/1Z87g3XXdSbT6KOXx1X5C4g?pwd=t98h) Code: t98h  
+After that, you can add these datasets to the 'dataset' fold.
+
 #### Citation:
 If you use the matlab code here, please cite our paper below:
 

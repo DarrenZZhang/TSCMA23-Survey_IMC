@@ -27,8 +27,8 @@ If you have any question, please contact us: jiewen_pr@126.com, or darrenzz219@g
 
 
 ```
-@article{zhang2015survey,
-  title={A survey of sparse representation: algorithms and applications},
+@article{wen2022survey,
+  title={A Survey on Incomplete Multi-view Clustering},
   author={Wen, Jie and Zhang, Zheng and Fei, Lunke and Zhang, Bob and Xu, Yong and Zhang, Zhao and Li, Jinxing},
   journal={IEEE Transactions on Systems, Man and Cybernetics: Systems},
   volume={x},

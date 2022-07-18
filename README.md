@@ -1,11 +1,8 @@
 # A Survey on Incomplete Multi-view Clustering
 
-### This toolbox is built for our comprehensive survey on Incomplete Multi-view Clustering (IMC)
+### This program is built for our comprehensive survey on Incomplete Multi-view Clustering (IMC)
 
 The details can be found in the [IEEE TSMCA](https://github.com/DarrenZZhang/IMC_Toolbox). 
-
-#### The program is to evaluate the IMC algorithms and this code is for the paper:  
-J. Wen, Z. Zhang, L. Fei, B. Zhang, Y. Xu, Z. Zhang, J. Li, A Survey on Incomplete Multi-view Clustering, IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMCA), 2022.
 
 #### The Incomplete multi-view clustering solvers used in the paper are from the following websites:
 

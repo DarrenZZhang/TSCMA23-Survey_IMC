@@ -23,7 +23,7 @@ If you use the matlab code here, please cite our paper below:
 
 J. Wen, Z. Zhang, L. Fei, B. Zhang, Y. Xu, Z. Zhang, J. Li, A Survey on Incomplete Multi-view Clustering, IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMCA), 2022.
 
-If you have any question, please contact us: darrenzz219@gmail.com, yongxu@ymail.com
+If you have any question, please contact us: jiewen_pr@126.com, or darrenzz219@gmail.com
 
 
 ```

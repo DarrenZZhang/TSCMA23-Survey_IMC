@@ -3,7 +3,7 @@
 ### This program is built for our comprehensive survey on Incomplete Multi-view Clustering  
 The details can be found in the [IEEE TSMCA](https://github.com/DarrenZZhang/IMC_Toolbox). 
 
-#### The Incomplete multi-view clustering (IMC) used in the paper are collected from the following websites:
+#### Some Incomplete multi-view clustering (IMC) used in the paper are collected from the following websites:
 
 For PMVC: The code of PMVC is released by the authors and can be download from the authors homepage: http://parnec.nuaa.edu.cn/lisy/  
 S.-Y. Li, Y. Jiang, and Z.-H. Zhou, Partial multi-view clustering, in AAAI Conference on Artificial Intelligence, pp. 1969--1974, 2014.

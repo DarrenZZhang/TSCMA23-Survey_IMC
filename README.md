@@ -1,7 +1,7 @@
 # A Survey on Incomplete Multi-view Clustering
 
 ### This program is built for our comprehensive survey on Incomplete Multi-view Clustering  
-The details can be found in the [IEEE TSMCA](https://github.com/DarrenZZhang/IMC_Toolbox). 
+The details can be found in the [IEEE TSMCA](https://ieeexplore.ieee.org/document/9845473). 
 
 #### Some Incomplete multi-view clustering (IMC) used in the paper are collected from the following websites:
 
